@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Light;
+    src: url(./assets/fonts/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: Italic;
+    src: url(./assets/fonts/Roboto-Italic.ttf);
+}
+
+@font-face {
+    font-family: R-Regular;
+    src: url(./assets/fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: R-Medium;
+    src: url(./assets/fonts/Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: R-Bold;
+    src: url(./assets/fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+    font-family: LB-Regular;
+    src: url(./assets/fonts/LibreBaskerville-Regular.ttf);
+}
+@font-face {
+    font-family: LB-Bold;
+    src: url(./assets/fonts/LibreBaskerville-Bold.ttf);
+}
